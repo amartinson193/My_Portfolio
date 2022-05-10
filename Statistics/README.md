@@ -1,1 +1,1 @@
-My Personal Statistics Book: https://github.com/amartinson193/Statistics-Book
+My Personal Statistics Book Used for Learning: https://github.com/amartinson193/Statistics-Book
